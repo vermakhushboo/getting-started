@@ -1,5 +1,5 @@
 # getting-started
 I am here to learn GitHub
 
-![](http://gph.is/1iif96f)
+![](https://media.giphy.com/media/NXp9HM6YeuS0U/giphy.gif)
 Khushboo from Delhi
